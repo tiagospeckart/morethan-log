@@ -8,7 +8,7 @@ const CONFIG = {
     email: "tiagospeckart@gmail.com",
     linkedin: "https://www.linkedin.com/in/tiago-martins-speckart",
     github: "https://github.com/tiagospeckart",
-    twitter: "https://twitter.com/tiagospeck_art",
+    instagram: "",
   },
   projects: [
     {
