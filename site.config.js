@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "zero-um",
-    description: "Agradeço a visita, espero que algo aqui postado seja de seu interesse!",
+    description: "Blog profissional sobre tecnologia, carreira e aprendizado",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "pt-BR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion", "Techonology"],
+    keywords: ["Blog", "Website", "Notion", "Techonology", "Tecnologia", "Desenvolvimento"],
   },
 
   // notion configuration (required)
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "tiagospeckart/zero-um",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
