@@ -3,12 +3,12 @@ const CONFIG = {
   profile: {
     name: "tiagospeckart",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "desenvolvedor fullstack",
-    bio: "Desenvolvedor fullstack, psicólogo em trasição de carreira, artista",
+    role: "Desenvolvedor Fullstack",
+    bio: "Desenvolvedor fullstack | Psicólogo em trasição de carreira | Artista",
     email: "tiagospeckart@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tiago-martins-speckart",
+    linkedin: "https://www.linkedin.com/in/tiago-martins-speckart-27b518247/",
     github: "https://github.com/tiagospeckart",
-    instagram: "",
+    instagram: "https://www.instagram.com/tiagospeckart/",
   },
   projects: [
     {
