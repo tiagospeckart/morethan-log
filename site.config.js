@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Desenvolvedor Fullstack",
     bio: "Desenvolvedor fullstack | Psicólogo em trasição de carreira | Artista",
     email: "tiagospeckart@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tiago-martins-speckart-27b518247/",
-    github: "https://github.com/tiagospeckart",
-    instagram: "https://www.instagram.com/tiagospeckart/",
+    linkedin: "tiago-martins-speckart-27b518247/",
+    github: "tiagospeckart",
+    instagram: "tiagospeckart/",
   },
   projects: [
     {
