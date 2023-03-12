@@ -1,4 +1,12 @@
-# morethan-log
+# zero-e-um blog
+
+Blog profissional/pessoal realizado utilizando o template  do reposítório [morethan-blog](morethan-blog).
+[morethanmin](https://github.com/morethanmin) implementou algumas soluções incríveis para o que eu estava buscando num blog pessoal, a capacidade de usar o [Notion](https://www.notion.so) como um CMS (ver abaixo) é uma solução maravilhosa para facilitar a responsividade do site e permitir que ele seja atualizado de qualquer lugar.
+
+Vou deixar o restante do Readme tal qual no repositório original, caso queiram fazer uso também. 
+*감사합니다!*
+
+## morethan-log
 
 <img width="1715" alt="image" src="https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png">
 
@@ -6,7 +14,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 [Demo Blog](https://morethan-log.vercel.app) | [Demo Resume](https://morethan-log.vercel.app/resume)
 
-## Features
+### Features
 
 **📒 Writing posts using notion**
 
@@ -28,7 +36,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 - Your profile information can be updated through Config. (`site.config.js`)
 - Plugins support includes, Google Analytics, Search Console and also Commenting using Github Issues(Utterances) or Cusdis.
 
-## Getting Started
+### Getting Started
 
 1. Star this repo.
 2. [Fork](https://github.com/morethanmin/morethan-log/fork) the repo to your Profile.
@@ -41,11 +49,11 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
    - `GOOGLE_MEASUREMENT_ID` : For Google analytics Plugin.
    - `GOOGLE_SITE_VERIFICATION` : For Google search console Plugin.
 
-## Contributing
+### Contributing
 
 Check out the [Contributing Guide](.github/CONTRIBUTING.md).
 
-### Contributors
+#### Contributors
 
 <!--
 Contributors template:
@@ -56,11 +64,11 @@ Contributors template:
 <a href="https://github.com/kvaishak"><img src="https://avatars.githubusercontent.com/u/25531121?v=4" width="50px" alt="kvaishak" /></a>&nbsp;&nbsp;<a href="https://github.com/jhk0530"><img src="https://avatars.githubusercontent.com/u/6457691?s=120&v=4" width="50px" alt="jhk0530" /></a>&nbsp;&nbsp;<a href="https://github.com/i99dev"><img src="https://avatars.githubusercontent.com/u/10709888?s=120&v=4" width="50px" alt="i99dev" /></a>&nbsp;&nbsp;<a href="https://github.com/JaeSang1998"><img src="https://avatars.githubusercontent.com/u/58258782?s=120&v=4" width="50px" alt="JaeSang1998" /></a>&nbsp;&nbsp;<a href="https://github.com/vaishak-kaippanchery-liqid"><img src="https://avatars.githubusercontent.com/u/93523060?s=120&v=4" width="50px" alt="vaishak-kaippanchery-liqid" /></a>&nbsp;&nbsp;<a href="https://github.com/itjustbong"><img src="https://avatars.githubusercontent.com/u/29947261?v=4" width="50px" alt="itjustbong" /></a>&nbsp;&nbsp;<a href="https://github.com/ddarkr"><img src="https://avatars.githubusercontent.com/u/6638675?v=4" width="50px" alt="ddarkr" /></a>&nbsp;&nbsp;<a href="https://github.com/lisiver"><img src="https://avatars.githubusercontent.com/u/46680792?v=4" width="50px" alt="lisiver" /></a>&nbsp;&nbsp;<a href="https://github.com/Octoping925"><img src="https://avatars.githubusercontent.com/u/53991994?v=4" width="50px" alt="Octoping925" /></a>&nbsp;&nbsp;
 </p>
 
-## Support
+### Support
 
 morethan-log is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers.
 
-### Sponsors
+#### Sponsors
 
 <!--
 Sponsors template:
@@ -71,6 +79,6 @@ Sponsors template:
 <a href="https://github.com/siyeons"><img src="https://avatars.githubusercontent.com/u/35549653?v=4" width="50px" alt="siyeons" /></a>&nbsp;&nbsp;
 </p>
 
-## License
+### License
 
 The [MIT License](LICENSE).
