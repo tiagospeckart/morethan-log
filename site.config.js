@@ -18,13 +18,13 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "zero-um",
+    title: "speckart.dev",
     description: "Blog profissional sobre tecnologia, carreira e aprendizado",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://zero-um.vercel.app",
+  link: "https://speckart.dev",
   since: 2023, // If leave this empty, current year will be used.
   lang: "pt-BR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
