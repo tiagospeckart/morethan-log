@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "tiagospeckart/zero-um",
+      repo: "tiagospeckart/speckart.dev",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
