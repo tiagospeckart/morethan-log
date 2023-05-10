@@ -1,4 +1,4 @@
-# zero-um blog
+# speckart.dev blog
 
 Blog profissional/pessoal realizado utilizando o template  do reposítório [morethan-blog](morethan-blog).
 [morethanmin](https://github.com/morethanmin) implementou algumas soluções incríveis para o que eu estava buscando num blog pessoal, a capacidade de usar o [Notion](https://www.notion.so) como um CMS (ver abaixo) é uma solução maravilhosa para facilitar a responsividade do site e permitir que ele seja atualizado de qualquer lugar.
